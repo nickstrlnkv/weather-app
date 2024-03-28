@@ -1,4 +1,4 @@
-# 🥪 weather-app
+# ☁️ weather-app
 
 # 📝 Description
 This repository contains the weather app project. The project uses webpack. The [WeatherAPI](https://www.weatherapi.com/) API is used to retrieve the weather.
@@ -10,7 +10,6 @@ Used normalize.css
 
 - Using Flexbox
 - Using Grid
-- Using Animate.css
 
 ## 🌐 Live Demo
 
