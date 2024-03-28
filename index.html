@@ -6,6 +6,23 @@
     <title>Document</title>
 <script defer src="main.js"></script></head>
 <body>
-    <h1>hello world</h1>
+    <div class="wrapper">
+        <div class="wrapper--container">
+            <form action="" method="get" class="weather-form">
+                <label for="city"></label>
+                <input class="weather-input" type="text" name="city" id="city" placeholder="Enter your city" required>
+                <input type="button" class="weather-button"value="Search">
+            </form>
+            <p class="today">TODAY</p>
+            <p class="today--day">SATURDAY 19 MARCH 2016</p>
+            <div class="wrapper--image"></div>
+            <div class="wrapper-info">
+                <p class="temperature">20°</p>
+                <p class="temperature-info">Party Cloud</p>
+            </div>
+            <p class="wrapper--city">MOSCOW</p>
+        </div>
+    </div>
+    
 </body>
 </html>
